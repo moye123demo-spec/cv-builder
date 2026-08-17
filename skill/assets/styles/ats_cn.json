@@ -1,0 +1,16 @@
+{
+  "template": "ats-cn",
+  "accent_color": "17324D",
+  "title_color": "17324D",
+  "font_cn": "Microsoft YaHei",
+  "font_en": "Aptos",
+  "page_size": "A4",
+  "layout": "single-column",
+  "language": "cn",
+  "photo_optional": false,
+  "bilingual_headings": false,
+  "top_margin_cm": 1.25,
+  "bottom_margin_cm": 1.25,
+  "left_margin_cm": 1.45,
+  "right_margin_cm": 1.45
+}

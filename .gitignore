@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+output/
+*.docx
+*.pdf
+!skill/assets/templates/*.docx
+private/
+*.png
+*.jpg
+*.jpeg
+!docs/
+!docs/screenshots/
+!docs/screenshots/*.png

@@ -1,0 +1,63 @@
+{
+  "name": "Candidate Name",
+  "headline": "Life Sciences Postdoctoral Researcher | AI Healthcare & Data Science",
+  "location": "Shanghai, China",
+  "contact": {
+    "email": "candidate@example.com",
+    "phone": "+86 138 0000 0000",
+    "github": "https://github.com/example"
+  },
+  "target_role": "AI healthcare / computational biology",
+  "summary": "Life sciences researcher with biomedical problem framing, omics analysis, and AI workflow prototyping experience.",
+  "skills": {
+    "data_and_engineering": ["R", "Python", "Linux", "reproducible analysis"],
+    "biomedical_data": ["single-cell RNA-seq", "omics analysis", "target prioritization"],
+    "ai_and_automation": ["AI agent workflows", "medical image prototype", "structured outputs"]
+  },
+  "education": [
+    {
+      "degree": "PhD, Cell Biology",
+      "institution": "Example Institute of Biomedical Sciences",
+      "dates": "2018.09-2024.01"
+    },
+    {
+      "degree": "BSc, Biological Sciences",
+      "institution": "Example University",
+      "dates": "2014.09-2018.06"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Postdoctoral Researcher",
+      "institution": "Example Medical University",
+      "dates": "2025.02-present",
+      "bullets": [
+        "Conduct biomedical basic research through data analysis, experimental design, and functional validation.",
+        "Use omics and single-cell workflows to support research iteration and reproducible delivery."
+      ]
+    },
+    {
+      "title": "Postdoctoral Researcher",
+      "institution": "Example Institute of Biomedical Sciences",
+      "dates": "2024.01-2025.02",
+      "bullets": [
+        "Led data-to-validation workflows for candidate prioritization and functional follow-up.",
+        "Integrated expression, pathway, and feasibility evidence into experiment-ready candidate lists."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Disease Image AI Agent Prototype",
+      "role": "Independent prototype",
+      "bullets": [
+        "Built an image-input to model-call to structured-result workflow.",
+        "Packaged reusable workflow steps for medical-image research exploration."
+      ]
+    }
+  ],
+  "achievements": [
+    "Manuscript under revision at a top-tier journal.",
+    "English: CET-6."
+  ]
+}

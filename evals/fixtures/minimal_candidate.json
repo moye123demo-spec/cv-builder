@@ -1,0 +1,11 @@
+{
+  "name": "Example Candidate",
+  "headline": "Data Analyst | Healthcare",
+  "location": "Shanghai",
+  "contact": {"email": "example@example.com"},
+  "target_role": "Healthcare data analyst",
+  "summary": "Analyst with reproducible data workflow experience.",
+  "skills": {"data": ["Python", "SQL"]},
+  "education": [{"degree": "MSc, Data Science", "institution": "Example University", "dates": "2020.09-2023.06"}],
+  "experience": [{"title": "Data Analyst", "institution": "Example Company", "dates": "2023.07-present", "bullets": ["Built reproducible reporting workflows."]}]
+}
